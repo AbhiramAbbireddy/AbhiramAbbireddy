@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abbireddy Naga Venkata Veera Abhiram</h1>
+<h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">💡 Exploring Cutting-Edge Projects and Ideas 🔧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramabbireddy&label=Profile%20views&color=0e75b6&style=flat" alt="AbhiramAbbireddy" /> </p>
