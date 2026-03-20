@@ -13,8 +13,7 @@ I'm currently working on VoiceIQ<br>I’m looking to collaborate on:<br>Open-sou
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramAbbireddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Quote
-> "History has proven that those who dare to imagine the impossible are the ones who break all human limitations."  
-> — A.P.J. Abdul Kalam
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=History%20has%20proven%20that%20those%20who%20dare%20to%20imagine%20the%20impossible%20are%20the%20ones%20who%20break%20all%20human%20limitations.&author=A.P.J.%20Abdul%20Kalam)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhiramAbbireddy&icon=0&color=0)](https://visitcount.itsvg.in)
