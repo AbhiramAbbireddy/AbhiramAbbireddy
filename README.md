@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on VoiceIQ<br>I’m looking to collaborate on:<br>Open-source projects related to web development, backend systems, and beginner-friendly innovations.<br>I’m looking for help with:<br>Improving problem-solving skills, system design (LLD), and advanced backend development.<br>I’m currently learning:<br>Data Structures & Algorithms, Java + Spring Framework, and full-stack development (HTML, CSS, JS, SQL).<br>Ask me about:<br>Java basics, beginner coding problems, and getting started with full-stack development.
+I'm currently working on TraceRoot — Vectorless RAG Codebase Archaeologist<br>I’m looking to collaborate on:<br>Open-source projects related to web development, backend systems, and beginner-friendly innovations.<br>I’m looking for help with:<br>Improving problem-solving skills, system design (LLD), and advanced backend development.<br>I’m currently learning:<br>Data Structures & Algorithms, Java + Spring Framework, and full-stack development (HTML, CSS, JS, SQL).<br>Ask me about:<br>Java basics, beginner coding problems, and getting started with full-stack development.
 
 
 ## 🌐 Socials:
