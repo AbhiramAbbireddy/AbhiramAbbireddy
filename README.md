@@ -27,7 +27,7 @@
 ```yaml
 name     : A.N.V.V. Abhiram
 alias    : AbhiramAbbireddy
-role     : Final Year CS Undergrad @ Sri Vasavi Engineering College
+role     : Pre-Final Year CS Undergrad @ Sri Vasavi Engineering College
 building : Compliance Automation Platform
 passion  : Backend Systems · AI/ML · Original Projects
 status   : Open to Opportunities 
@@ -100,7 +100,7 @@ Spring Boot · React.js · PostgreSQL · Redis · Kafka
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka)](#)
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](#)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/AbhiramAbbireddy/SystemDesign/tree/main/URL-SHORTNER)
 
 </td>
 
@@ -118,7 +118,7 @@ Token Bucket · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean archite
 [![LLD](https://img.shields.io/badge/LLD-Design-7c3aed?style=flat-square)](#)
 [![Concurrency](https://img.shields.io/badge/Concurrency-Threads-302b63?style=flat-square)](#)
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](#)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/AbhiramAbbireddy/SystemDesign/tree/main/ApiRateLimiterSD)
 
 </td>
 
@@ -140,6 +140,8 @@ Token Bucket · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean archite
 
 [![Skills](https://skillicons.dev/icons?i=spring,fastapi,hibernate&theme=dark)](https://skillicons.dev)
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 **Frontend**
 
 [![Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
@@ -160,12 +162,12 @@ Token Bucket · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean archite
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhiramAbbireddy&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhiramAbbireddy&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&hide_border=false&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=AbhiramAbbireddy&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramAbbireddy&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&layout=compact&langs_count=8&cache_seconds=1800" />
+<img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhiramAbbireddy&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&layout=compact&langs_count=8" />
 
 <br/><br/>
 
