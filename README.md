@@ -28,10 +28,9 @@
 name     : A.N.V.V. Abhiram
 alias    : AbhiramAbbireddy
 role     : Pre-Final Year CS Undergrad @ Sri Vasavi Engineering College
-gpa      : 9.13 / 10.0
 building : Compliance Automation Platform
 passion  : Backend Systems · AI/ML · Original Projects
-status   : Open to Opportunities ✅
+status   : Open to Opportunities 
 ```
 
 <br clear="right"/>
