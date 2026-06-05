@@ -49,7 +49,7 @@ status   : Open to Opportunities
 
 **Compliance Automation Platform**
 
-> Automating regulatory compliance workflows with AI-driven analysis, policy mapping, and audit trail generation. Built with Spring Boot, Python microservices, and LLM-powered document processing.
+> Automating regulatory compliance workflows with AI-driven policy analysis, smart audit trail generation, and document intelligence — built with Spring Boot and Spring AI.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiramAbbireddy)
 
