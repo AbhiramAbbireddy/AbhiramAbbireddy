@@ -27,10 +27,11 @@
 ```yaml
 name     : A.N.V.V. Abhiram
 alias    : AbhiramAbbireddy
-role     : Final Year CS Undergrad @ Sri Vasavi Engineering College
+role     : Pre-Final Year CS Undergrad @ Sri Vasavi Engineering College
+gpa      : 9.13 / 10.0
 building : Compliance Automation Platform
 passion  : Backend Systems · AI/ML · Original Projects
-status   : Open to Opportunities 
+status   : Open to Opportunities ✅
 ```
 
 <br clear="right"/>
@@ -49,7 +50,7 @@ status   : Open to Opportunities
 
 **Compliance Automation Platform**
 
-> Automating regulatory compliance workflows with AI-driven policy analysis, smart audit trail generation, and document intelligence — built with Spring Boot and Spring AI.
+> Automating regulatory compliance workflows with AI-driven policy analysis, smart audit trail generation, and document intelligence — built with **Spring Boot** and **Spring AI**.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiramAbbireddy)
 
@@ -95,10 +96,10 @@ Distributed URL Shortening System
 
 Spring Boot · React.js · PostgreSQL · Redis · Kafka
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](#)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/AbhiramAbbireddy/SystemDesign/tree/main/URL-SHORTNER)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/AbhiramAbbireddy/SystemDesign/tree/main/URL-SHORTNER)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://github.com/AbhiramAbbireddy/SystemDesign/tree/main/URL-SHORTNER)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka)](https://github.com/AbhiramAbbireddy/SystemDesign/tree/main/URL-SHORTNER)
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/AbhiramAbbireddy/SystemDesign/tree/main/URL-SHORTNER)
 
@@ -114,9 +115,9 @@ Java LLD Exercise
 
 Token Bucket · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean architecture
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
-[![LLD](https://img.shields.io/badge/LLD-Design-7c3aed?style=flat-square)](#)
-[![Concurrency](https://img.shields.io/badge/Concurrency-Threads-302b63?style=flat-square)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/AbhiramAbbireddy/SystemDesign/tree/main/ApiRateLimiterSD)
+[![LLD](https://img.shields.io/badge/LLD-Design-7c3aed?style=flat-square)](https://github.com/AbhiramAbbireddy/SystemDesign/tree/main/ApiRateLimiterSD)
+[![Concurrency](https://img.shields.io/badge/Concurrency-Threads-302b63?style=flat-square)](https://github.com/AbhiramAbbireddy/SystemDesign/tree/main/ApiRateLimiterSD)
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/AbhiramAbbireddy/SystemDesign/tree/main/ApiRateLimiterSD)
 
@@ -171,7 +172,8 @@ Token Bucket · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean archite
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbhiramAbbireddy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramAbbireddy&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&hide_border=false" />
+
 </div>
 
 ---
