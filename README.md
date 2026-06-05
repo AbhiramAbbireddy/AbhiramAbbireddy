@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;Backend+%7C+AI%2FML+%7C+System+Design;Currently+%E2%86%92+Compliance+Automation+Platform;Open+to+collabs+%26+cool+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+things+that+matter;Backend+%7C+AI%2FML+%7C+System+Design;Currently+building+Compliance+Automation+Platform;Open+to+collabs+%26+cool+ideas" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,13 +27,10 @@
 ```yaml
 name     : A.N.V.V. Abhiram
 alias    : AbhiramAbbireddy
-role     : Pre-Final Year CS Undergrad @ Sri Vasavi Engineering College
-gpa      : 9.13 / 10.0
-intern   : Product Developer @ NIT Andhra Pradesh
+role     : Final Year CS Undergrad @ Sri Vasavi Engineering College
 building : Compliance Automation Platform
 passion  : Backend Systems · AI/ML · Original Projects
-lc_handle: AbhiramAbbireddy
-status   : Open to Opportunities ✅
+status   : Open to Opportunities 
 ```
 
 <br clear="right"/>
@@ -44,25 +41,17 @@ status   : Open to Opportunities ✅
 
 <div align="center">
 
-<!-- CURRENTLY WORKING ON CARD -->
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="100%">
 
-### 🔨 Building Right Now
+### <img src="https://img.icons8.com/fluency/28/source-code.png"/> &nbsp; Building Right Now
+
 **Compliance Automation Platform**
+
 > Automating regulatory compliance workflows with AI-driven analysis, policy mapping, and audit trail generation. Built with Spring Boot, Python microservices, and LLM-powered document processing.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiramAbbireddy)
-
-</td>
-<td width="50%">
-
-### 🏛️ Internship
-**iMentor — NIT Andhra Pradesh**
-> AI-powered student mentoring platform. Working under Prof. Karri Phani on intelligent mentorship matching, analytics dashboards, and platform architecture.
-
-[![NIT-AP](https://img.shields.io/badge/NIT_Andhra_Pradesh-003087?style=for-the-badge&logo=academia&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiramAbbireddy)
 
 </td>
 </tr>
@@ -75,49 +64,64 @@ status   : Open to Opportunities ✅
 ## `> ls ./projects`
 
 <div align="center">
-
-<!-- PROJECT CARDS -->
-<a href="https://github.com/AbhiramAbbireddy/TraceRoot-Vectorless-RAG-Codebase-Archaeologist">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiramAbbireddy&repo=TraceRoot-Vectorless-RAG-Codebase-Archaeologist&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
 <table>
 <tr>
+
 <td align="center" width="33%">
 
-### 🔍 TraceRoot
-**Vectorless RAG Codebase Archaeologist**
+<img src="https://skillicons.dev/icons?i=python" width="40"/><br/>
+
+**TraceRoot**
+
+Vectorless RAG Codebase Archaeologist
 
 Typed directed graph · BM25 + k-hop traversal · FastAPI · Groq Llama 3.3 70B
 
-`Python` `FastAPI` `Groq` `RAG`
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)](https://github.com/AbhiramAbbireddy/TraceRoot-Vectorless-RAG-Codebase-Archaeologist)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)](https://github.com/AbhiramAbbireddy/TraceRoot-Vectorless-RAG-Codebase-Archaeologist)
+[![Groq](https://img.shields.io/badge/Groq-LLM-black?style=flat-square)](https://github.com/AbhiramAbbireddy/TraceRoot-Vectorless-RAG-Codebase-Archaeologist)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/AbhiramAbbireddy/TraceRoot-Vectorless-RAG-Codebase-Archaeologist)
 
 </td>
+
 <td align="center" width="33%">
 
-### 🔗 URL Shortener
-**Distributed URL Shortening System**
+<img src="https://skillicons.dev/icons?i=spring" width="40"/><br/>
 
-Spring Boot · React.js · PostgreSQL · Redis (caching) · Kafka (analytics events)
+**URL Shortener**
 
-`Java` `Spring Boot` `Redis` `Kafka`
+Distributed URL Shortening System
+
+Spring Boot · React.js · PostgreSQL · Redis · Kafka
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka)](#)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](#)
 
 </td>
+
 <td align="center" width="33%">
 
-### 🛡️ API Rate Limiter
-**Java LLD Exercise**
+<img src="https://skillicons.dev/icons?i=java" width="40"/><br/>
 
-Token Bucket algorithm · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean architecture
+**API Rate Limiter**
 
-`Java` `LLD` `Concurrency`
+Java LLD Exercise
+
+Token Bucket · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean architecture
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
+[![LLD](https://img.shields.io/badge/LLD-Design-7c3aed?style=flat-square)](#)
+[![Concurrency](https://img.shields.io/badge/Concurrency-Threads-302b63?style=flat-square)](#)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](#)
 
 </td>
+
 </tr>
 </table>
 </div>
@@ -128,27 +132,25 @@ Token Bucket algorithm · ConcurrentHashMap · LinkedBlockingQueue · 7-file cle
 
 <div align="center">
 
-<!-- SKILL ICONS - using skillicons.dev for beautiful consistent icons -->
-
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,c,html,css,ts&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,python,js,c,html,css&theme=dark)](https://skillicons.dev)
 
 **Backend & Frameworks**
 
-[![My Skills](https://skillicons.dev/icons?i=spring,fastapi,nodejs,hibernate&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=spring,fastapi,hibernate&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 **Databases & Infra**
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,sqlite,supabase,docker,kafka&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=postgres,redis,sqlite,supabase,docker&theme=dark)](https://skillicons.dev)
 
 **Cloud & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,git,github,postman,vscode,linux&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=aws,git,github,postman,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -158,30 +160,16 @@ Token Bucket algorithm · ConcurrentHashMap · LinkedBlockingQueue · 7-file cle
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhiramAbbireddy&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&hide_border=false&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AbhiramAbbireddy&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhiramAbbireddy&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com?user=AbhiramAbbireddy&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramAbbireddy&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&layout=compact&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramAbbireddy&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&layout=compact&langs_count=8&cache_seconds=1800" />
 
 <br/><br/>
 
-<!-- TROPHIES -->
 <img src="https://github-profile-trophy.vercel.app/?username=AbhiramAbbireddy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=6" />
-
-</div>
-
----
-
-## `> leetcode --profile`
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-AbhiramAbbireddy-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/AbhiramAbbireddy/)
-
-<!-- Leetcode Stats Card -->
-<img src="https://leetcard.jacoblin.cool/AbhiramAbbireddy?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=1&border_color=7c3aed" width="500"/>
 
 </div>
 
@@ -203,28 +191,13 @@ Token Bucket algorithm · ConcurrentHashMap · LinkedBlockingQueue · 7-file cle
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiram_Abbireddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiramabbireddy/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-abhiram.codes@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiram.codes@gmail.com)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-AbhiramAbbireddy-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AbhiramAbbireddy/)
+[![Gmail](https://img.shields.io/badge/Gmail-abhiram.codes%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiram.codes@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-AbhiramAbbireddy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiramAbbireddy)
 
 </div>
 
 ---
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<div align="center">
-
-### `> git commit --snake`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiramAbbireddy/AbhiramAbbireddy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiramAbbireddy/AbhiramAbbireddy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AbhiramAbbireddy/AbhiramAbbireddy/output/github-snake-dark.svg" />
-</picture>
-
-</div>
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
