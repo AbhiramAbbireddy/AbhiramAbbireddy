@@ -27,7 +27,7 @@
 ```yaml
 name     : A.N.V.V. Abhiram
 alias    : AbhiramAbbireddy
-role     : Pre-Final Year CS Undergrad @ Sri Vasavi Engineering College
+role     : Final Year CS Undergrad @ Sri Vasavi Engineering College
 building : Compliance Automation Platform
 passion  : Backend Systems · AI/ML · Original Projects
 status   : Open to Opportunities 
