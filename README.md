@@ -144,7 +144,7 @@ Token Bucket · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean archite
 
 **Frontend**
 
-[![Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 **Databases & Infra**
 
