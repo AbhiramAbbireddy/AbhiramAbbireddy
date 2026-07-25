@@ -134,7 +134,7 @@ Token Bucket · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean archite
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=java,python,js,c,html,css&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,python,js,typescript,c,html,css&theme=dark)](https://skillicons.dev)
 
 **Backend & Frameworks**
 
