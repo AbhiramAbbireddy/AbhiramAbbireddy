@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+things+that+matter;Backend+%7C+AI%2FML+%7C+System+Design;Currently+building+Compliance+Automation+Platform;Open+to+collabs+%26+cool+ideas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+things+that+matter;Backend+%7C+AI%2FML+%7C+System+Design;Currently+learning+AWS;Open+to+collabs+%26+cool+ideas" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@
 name     : A.N.V.V. Abhiram
 alias    : AbhiramAbbireddy
 role     : Final Year CS Undergrad @ Sri Vasavi Engineering College
-building : Compliance Automation Platform
+learning : AWS
 passion  : Backend Systems · AI/ML · Original Projects
 status   : Open to Opportunities 
 ```
@@ -45,11 +45,11 @@ status   : Open to Opportunities
 <tr>
 <td align="center" width="100%">
 
-### <img src="https://img.icons8.com/fluency/28/source-code.png"/> &nbsp; Building Right Now
+### <img src="https://img.icons8.com/fluency/28/source-code.png"/> &nbsp; Latest Work
 
 **Compliance Automation Platform**
 
-> Automating regulatory compliance workflows with AI-driven policy analysis, smart audit trail generation, and document intelligence — built with **Spring Boot** and **Spring AI**.
+> A full-stack platform automating regulatory compliance workflows with AI-driven policy analysis, smart audit trail generation, and document intelligence — built with **Spring Boot**, **Spring AI**, and an **Angular 19** frontend. Currently prepping for deployment on AWS Free Tier.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiramAbbireddy)
 
@@ -139,8 +139,6 @@ Token Bucket · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean archite
 **Backend & Frameworks**
 
 [![Skills](https://skillicons.dev/icons?i=spring,fastapi,hibernate&theme=dark)](https://skillicons.dev)
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Frontend**
 
