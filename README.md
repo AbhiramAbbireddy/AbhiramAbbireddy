@@ -173,6 +173,37 @@ Token Bucket · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean archite
 
 </div>
 
+
+## `> cat leetcode_stats.json`
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/O1Dream?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="500" />
+
+</div>
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-O1Dream7-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/RuntimeTerror_07/)
+
+</div>
+
+
+## `> cat gfg_stats.json`
+
+<div align="center">
+
+<img src="https://geeks-for-geeks-stats-card.vercel.app/abhiramabbireddy?theme=dark" width="500" />
+
+</div>
+
+<div align="center">
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-abhiramabbireddy-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/)
+
+</div>
+
+
 ---
 
 ## `> cat philosophy.txt`
