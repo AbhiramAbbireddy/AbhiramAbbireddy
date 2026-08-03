@@ -161,7 +161,6 @@ Token Bucket · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean archite
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhiramAbbireddy&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&hide_border=false&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=AbhiramAbbireddy&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
 <br/><br/>
 
