@@ -1,0 +1,29 @@
+name: Generate stats images
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs once a day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub stats card
+        uses: jstrieb/github-stats@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          exclude_repos: ''
+        continue-on-error: true
+
+      - name: Commit generated files
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add generated/ || true
+          git diff --staged --quiet || git commit -m "Update stats images [automated]"
+          git push
