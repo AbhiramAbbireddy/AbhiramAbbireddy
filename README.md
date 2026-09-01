@@ -173,19 +173,9 @@ Token Bucket · ConcurrentHashMap · LinkedBlockingQueue · 7-file clean archite
 ## `> git log --stats`
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhiramAbbireddy&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&hide_border=false&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=AbhiramAbbireddy&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
 <br/><br/>
-
-<img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhiramAbbireddy&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&layout=compact&langs_count=8" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramAbbireddy&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&hide_border=false" />
-
-</div>
 
 
 ## `> cat leetcode_stats.json`
